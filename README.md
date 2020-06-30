@@ -1,6 +1,7 @@
-# EnrolmentMacro-YoungilMS2019S2
+# dbdbschool_hacks
 
-dbdbschool 기반 영일중학교 자유학기제 수강신청 로그인 매크로
+dbdbschool 시스템의 다양한 script hack을 모아놓은 레포입니다.
+[여기](https://github.com/Seia-Soto/EnrolmentMacro-YoungilMS2019S2)에서 포크하였습니다.
 
 - 해당 로그인 매크로는 모든 dbdbschool 기반 로그인 폼에서 작동합니다. (학생 전용)
 
